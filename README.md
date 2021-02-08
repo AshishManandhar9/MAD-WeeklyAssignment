@@ -1,4 +1,4 @@
-# MAD-WeeklyAssignment
+# MAD-Weekly-Assignment
 
 ### SDK Version 
 ![alt text](https://github.com/AshishManandhar9/MAD-WeeklyAssignment/blob/master/Screenshots/SDK%20version%20for%20the%20app.jpg "SDK")
